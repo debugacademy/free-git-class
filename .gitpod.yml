@@ -1,0 +1,3 @@
+tasks:
+- command: ln -s /workspace ~/Desktop
+  name: CLI
