@@ -15,7 +15,7 @@ PH2-1
 PH3-1
  [enter an accomplishment, hobby, or occupation].  
 
-## PH4
-PH4-1
+## Outcome
+Sarah is
  [enter an emotion] 
-PH4-2
+with all that she has accomplished.
