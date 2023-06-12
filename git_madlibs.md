@@ -3,8 +3,8 @@ We will play a game similar to "Mad Libs" using Git. In this game, each player w
 
 **Only fill in ONE section below; the rest will be filled in by other team players.**  
 
-## Placeholder (PH) 1
-PH1-1
+## How it started
+This is a story about how Sarah planned to
  [enter an objective here].  
 
 ## PH2
