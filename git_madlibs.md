@@ -11,8 +11,8 @@ PH1-1
 PH2-1
  [enter an action here].  
 
-## PH3
-PH3-1
+## Progress
+Because of which, Sarah regularly
  [enter an accomplishment, hobby, or occupation].  
 
 ## PH4
