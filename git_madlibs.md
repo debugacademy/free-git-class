@@ -7,8 +7,8 @@ We will play a game similar to "Mad Libs" using Git. In this game, each player w
 PH1-1
  [enter an objective here].  
 
-## PH2
-PH2-1
+## Action
+Eventually, she decided to take the plunge. She
  [enter an action here].  
 
 ## PH3
