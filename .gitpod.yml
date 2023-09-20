@@ -1,5 +1,3 @@
 tasks:
 - command: mkdir -p ~/Desktop/debugacademy && ln -s /workspace ~/Desktop/debugacademy/course-git-pt1 && clear
   name: CLI
-- command: cd /workspace/free-git-class && git remote add me https://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@github.com/DebugAcademyTrainee/free-git-class.git && clear
-  name: PAT
